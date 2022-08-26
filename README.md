@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ryan</h1>
 
-🌱 I’m currently learning **Java**, Spring, Data Structure and Algorithms**
+🌱 I’m currently learning **Java, Spring, Data Structure and Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
