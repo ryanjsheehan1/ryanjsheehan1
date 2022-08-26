@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning <b>Java, Spring, Data Structure and Algorithms</b> 🌱
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanjsheehan1&show_icons=true&theme=tokyonight)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanjsheehan1&show_icons=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanjsheehan1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
