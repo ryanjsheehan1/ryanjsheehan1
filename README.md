@@ -1,6 +1,6 @@
 # Hi there, I'm Ryan 👋
 
-🌱 I’m currently learning <b>Java, Spring, Data Structure and Algorithms</b> 🌱
+🌱 I’m currently learning <b>Java, Spring Framework, Data Structure and Algorithms</b> 🌱
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanjsheehan1&show_icons=true&theme=default)
 
