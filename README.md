@@ -17,7 +17,7 @@ AI-powered case interview scoring for MBB candidates. After each mock case, Prep
 ## Background
 
 - MBA candidate, The Wharton School at UPenn
-- Previously: software engineering and product roles
+- Previously: software engineering and operations roles
 - Focus: AI applications, product management, product strategy
 
 ---
