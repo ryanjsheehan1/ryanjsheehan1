@@ -1,6 +1,6 @@
 # Ryan Sheehan
 
-MBA candidate at Wharton building AI-powered tools for high-stakes decisions.
+MBA candidate at Wharton building AI-powered tools
 
 ---
 
@@ -16,9 +16,9 @@ AI-powered case interview scoring for MBB candidates. After each mock case, Prep
 
 ## Background
 
-- MBA candidate, The Wharton School at Penn
+- MBA candidate, The Wharton School at UPenn
 - Previously: software engineering and product roles
-- Focus: AI applications, product strategy, consulting
+- Focus: AI applications, product management, product strategy
 
 ---
 
