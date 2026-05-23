@@ -23,3 +23,4 @@ AI-powered case interview scoring for MBB candidates. After each mock case, Prep
 ---
 
 [LinkedIn](https://www.linkedin.com/in/ryansheehan1) · [prepsignal.vercel.app](https://prepsignal.vercel.app)
+
